@@ -54,7 +54,7 @@ def update_records(bot, user):
 
 
 def welcome(bot, user):
-	bot.send_message(f"Welcome to the stream {user['name']}!")
+	#bot.send_message(f"Welcome to the stream {user['name']}!")
 	welcomed.append(user["id"])
 
 
