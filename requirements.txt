@@ -24,7 +24,7 @@ requests==2.24.0
 six==1.15.0
 tempora==3.0.0
 twitchio==1.1.0
-urllib3==1.25.9
+urllib3==1.26.5
 virtualenv==20.0.23
 websockets==8.1
 yarl==1.4.2
